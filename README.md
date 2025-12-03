@@ -1,7 +1,4 @@
-# Android Starter Kit with Appwrite
 
-Kickstart your Android development with this ready-to-use starter project integrated
-with [Appwrite](https://appwrite.io).
 
 This guide will help you quickly set up, customize, and build your Android app using **Jetpack
 Compose**.
@@ -48,7 +45,3 @@ To create a production build of your app:
 
 ---
 
-## 💡 Additional Notes
-
-- This starter project is designed to streamline your Android development with Appwrite.
-- Refer to the [Appwrite Documentation](https://appwrite.io/docs) for detailed integration guidance.
